@@ -11,4 +11,4 @@ see: https://type.jp/s/itac/article5.html
 ruby myapp.rb
 ```
 
-And then, open `http://localhost;4567`
+And then, open `http://localhost:4567`
